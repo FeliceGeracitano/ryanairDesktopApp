@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Ryanair desktop App",
   "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
   "keywords": [
     "ryanair"
   ],
