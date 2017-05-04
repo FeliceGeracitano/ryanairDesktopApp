@@ -1,0 +1,14 @@
+{
+  "name": "ryanair-desktop-app",
+  "version": "1.0.0",
+  "description": "Ryanair desktop App",
+  "main": "main.js",
+  "keywords": [
+    "ryanair"
+  ],
+  "author": "Felice Geracitano",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
